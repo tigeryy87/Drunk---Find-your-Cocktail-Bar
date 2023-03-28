@@ -1,6 +1,6 @@
 # Drunk (Find your Chicago Cocktail Bar)
 # Created by Tiger Chen (Yin-Lin)
-
+https://user-images.githubusercontent.com/24702429/228357584-c25e2d75-230d-4c17-ba0f-a49ae3123f65.mp4
 ## Successfully create a application called "Drunk" using SwiftUI that the user can search for the Cocktail Bar in Chicago, and get the information including open hour, rating, price level, phone, and address. Also, it has embedded with Apple Map that can view the location. The users can save the bar into their favorite list when they search for the bar. It contained several categories for users to easily browse throught the bar. I implement the YelpApi for getting the cocktail bar information.
 
 ## References:
@@ -17,5 +17,5 @@
 11. https://docs.developer.yelp.com/reference/v3_business_match
 
 
-https://user-images.githubusercontent.com/24702429/228357584-c25e2d75-230d-4c17-ba0f-a49ae3123f65.mp4
+
 
