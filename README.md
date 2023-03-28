@@ -15,3 +15,7 @@
 9. https://stackoverflow.com/questions/57094606/swiftui-type-service-does-not-conform-to-protocol-decodable
 10. https://stackoverflow.com/questions/56715398/swiftui-how-do-i-change-the-text-color-of-a-textfield
 11. https://docs.developer.yelp.com/reference/v3_business_match
+
+
+https://user-images.githubusercontent.com/24702429/228357584-c25e2d75-230d-4c17-ba0f-a49ae3123f65.mp4
+
